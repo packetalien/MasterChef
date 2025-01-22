@@ -17,7 +17,7 @@ The MasterChef mod introduces new recipes for canned foods, enhancing the cookin
 ### Installation
 
 1. **Locate Mods Folder:** Navigate to your 7 Days to Die installation directory, typically found at `C:\Program Files (x86)\Steam\steamapps\common\7 Days To Die\Mods`.
-2. **Download from GitHub:** Download the `MasterChef` folder from our [GitHub repository](insert-your-github-link-here).
+2. **Download from GitHub:** Download the `MasterChef` folder from our [GitHub repository](https://github.com/packetalien/MasterChef/archive/refs/tags/Main.zip).
 3. **Copy the Folder:** After downloading, copy the `MasterChef` folder directly into your 7 Days to Die `Mods` directory.
 ### Notes
 - Ensure mods are enabled in your game settings.
@@ -27,8 +27,8 @@ The MasterChef mod introduces new recipes for canned foods, enhancing the cookin
 - No known issues at this time. Please report any bugs or unexpected behaviors.
 
 ### Credits
-- **Author:** [Your Name or Mod Team]
-- **Inspired by:** Community feedback for more diverse food options.
+- **Author:** [@packetmonk](https://x.com/packetmonk)
+- **Inspired by:** My wife saying "Beef and Chicken stock are extremely trivial to make, why is it not allowed?".
 
 ### License
-- [Specify the license here, e.g., MIT License]
+- [Creative Commons]
